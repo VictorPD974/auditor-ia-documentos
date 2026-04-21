@@ -1,0 +1,14 @@
+# Arquivo de configuração local (onde está sua chave da Groq)
+.env
+
+# Arquivos temporários do Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+
+# Arquivos de dados e resultados (para não poluir o repositório)
+*.csv
+*.zip
+*.png
